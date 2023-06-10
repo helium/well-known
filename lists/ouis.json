@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "escrow_account": "6QQNxU671ztxwEcNZn1qvA5KXv6Lb3objKDU3pBqc96w",
+    "name": "Helium Foundation Console"
+  },
+  {
+    "id": 9,
+    "escrow_account": "D5HidvdTUtPh5xLjdZ5J5YUxXk1hNV3vgWYkdMFgsJJv",
+    "name": "Roaming (Legacy)"
+  },
+  {
+    "id": 16,
+    "escrow_account": "CMd6j8wMebTNfExJdsgb5JJ1pkvQBXqntpokujn6XMQb",
+    "name": "Roaming 2 (Legacy)"
+  }
+]
