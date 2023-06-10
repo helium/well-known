@@ -8,9 +8,9 @@ This respository is a community driven repository of well known addresses, OUIs,
 
 OUIs (Organizationally Unique Identifiers) are the way that LoRaWAN Network Servers register with the Helium Network. It may be helpful for the community to know which individual or entity is running each LNS for analytics purposes.
 
-To view the current list of known OUIs, check out [oui.json](/oui.json).
+To view the current list of known OUIs, check out [ouis.json](/lists/ouis.json).
 
-To submit your OUI to the list, submit a PR with your OUI added as the last object in the array in `oui.json` with the following object format:
+To submit your OUI to the list, submit a PR with your OUI added as the last object in the array in `ouis.json` with the following object format:
 
 ```json
 {
