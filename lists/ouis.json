@@ -12,6 +12,12 @@
     "name": "Nova Dev Console"
   },
   {
+    "id": 3,
+    "router_key": "14oSuAgRmAFPFPZRY1MUwir5AJSLGkaXHzuSZJ92BuYCfLMN1Et",
+    "escrow_account": "mTPTf1YaZuriTDcfJgEdpyWhdiCa95owf8JhoMoCtUP",
+    "name": "Helium Foundation Staging Console"
+  },
+  {
     "id": 4,
     "router_key": "1124CJ9yJaHq4D6ugyPCDnSBzQik61C1BqD9VMh1vsUmjwt16HNB",
     "escrow_account": "JAodSPqMiQgeb58jdxfpXe4dWiwxnWpE7fg9rDshi1tJ",
