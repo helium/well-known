@@ -15,6 +15,7 @@ To submit your OUI to the list, submit a PR with your OUI added as the last obje
 ```json
 {
     "id": 1,
+    "router_key": "112qB3YaH5bZkCnKA5uRH7tBtGNv2Y5B4smv1jsmvGUzgKT71QpE",
     "escrow_account": "6QQNxU671ztxwEcNZn1qvA5KXv6Lb3objKDU3pBqc96w",
     "name": "Helium Foundation Console"
 }
