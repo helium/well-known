@@ -8,13 +8,13 @@
   {
     "id": 2,
     "router_key": "1124CJ9yJaHq4D6ugyPCDnSBzQik61C1BqD9VMh1vsUmjwt16HNB",
-    "escrow_account": "",
+    "escrow_account": "BdKap3dBDQYR5ePme4e7HD2TQstwrARzs9Yk8MS23Leb",
     "name": "Nova Dev Console"
   },
   {
     "id": 4,
     "router_key": "1124CJ9yJaHq4D6ugyPCDnSBzQik61C1BqD9VMh1vsUmjwt16HNB",
-    "escrow_account": "11263KvqW3GZPAvag5sQYtBJSjb25azSTSwoi5Tza9kboaLRxcsv",
+    "escrow_account": "JAodSPqMiQgeb58jdxfpXe4dWiwxnWpE7fg9rDshi1tJ",
     "name": "Nova Staging Console"
   },
   {
@@ -37,6 +37,7 @@
   },
   {
     "id": 197,
+    "router_key": "11v5TUHgqXc8mxshCEN1e5PfKMCy4gXBKhaYZqhvaN94EEXyptj",
     "escrow_account": "mvKSiNoKNbb1h9qi27GPnpTNfX5qNGsiFcU24ZRgQmY",
     "name": "Meteo Scientific (Gristle King)"
   }
