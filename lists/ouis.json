@@ -1,18 +1,39 @@
 [
   {
     "id": 1,
+    "router_key": "112qB3YaH5bZkCnKA5uRH7tBtGNv2Y5B4smv1jsmvGUzgKT71QpE",
     "escrow_account": "6QQNxU671ztxwEcNZn1qvA5KXv6Lb3objKDU3pBqc96w",
     "name": "Helium Foundation Console"
   },
   {
+    "id": 2,
+    "router_key": "1124CJ9yJaHq4D6ugyPCDnSBzQik61C1BqD9VMh1vsUmjwt16HNB",
+    "escrow_account": "",
+    "name": "Nova Dev Console"
+  },
+  {
+    "id": 4,
+    "router_key": "1124CJ9yJaHq4D6ugyPCDnSBzQik61C1BqD9VMh1vsUmjwt16HNB",
+    "escrow_account": "11263KvqW3GZPAvag5sQYtBJSjb25azSTSwoi5Tza9kboaLRxcsv",
+    "name": "Nova Staging Console"
+  },
+  {
     "id": 9,
+    "router_key": "11w77YQLhgUt8HUJrMtntGGr97RyXmot1ofs5Ct2ELTmbFoYsQa",
     "escrow_account": "D5HidvdTUtPh5xLjdZ5J5YUxXk1hNV3vgWYkdMFgsJJv",
-    "name": "Roaming (Legacy)"
+    "name": "Nova Roaming US"
+  },
+  {
+    "id": 12,
+    "router_key": "112ewJNEUfSg3Jvo276tMjzFC2JzmmZcJJ32CWz2fzYqbyCMMTe1",
+    "escrow_account": "3KxKV3jwuM2tGmP1dTsPikEVqNU23bwZpW6fpsAB9Be1",
+    "name": "Nova Dedicated Console"
   },
   {
     "id": 16,
+    "router_key": "11afuQSrmk52mgxLu91AdtDXbJ9wmqWBUxC3hvjejoXkxEZfPvY",
     "escrow_account": "CMd6j8wMebTNfExJdsgb5JJ1pkvQBXqntpokujn6XMQb",
-    "name": "Roaming 2 (Legacy)"
+    "name": "Nova Roaming EU"
   },
   {
     "id": 197,
