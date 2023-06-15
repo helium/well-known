@@ -18,5 +18,10 @@
     "id": 197,
     "escrow_account": "mvKSiNoKNbb1h9qi27GPnpTNfX5qNGsiFcU24ZRgQmY",
     "name": "Meteo Scientific (Gristle King)"
+  },
+  {
+    "id": 12,
+    "escrow_account": "3KxKV3jwuM2tGmP1dTsPikEVqNU23bwZpW6fpsAB9Be1",
+    "name": "Nova Labs Console"
   }
 ]
