@@ -46,5 +46,10 @@
     "router_key": "11v5TUHgqXc8mxshCEN1e5PfKMCy4gXBKhaYZqhvaN94EEXyptj",
     "escrow_account": "mvKSiNoKNbb1h9qi27GPnpTNfX5qNGsiFcU24ZRgQmY",
     "name": "Meteo Scientific (Gristle King)"
+  },
+  {
+    "router_key": "112KdmtMMY7fFqgkHe29b77AbdEHLpoHxDFnYRLMYKfBTkqxpi5q",
+    "escrow_account": "Fg7fxHMLz2Y6Pi8Dy6yrSrGrgPjupmA9ooSjk6CeYDQ8",
+    "name": "Helium Mobile"
   }
 ]
