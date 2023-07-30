@@ -24,6 +24,12 @@
     "name": "Nova Staging Console"
   },
   {
+    "id": 6,
+    "router_key": "6BqyE1zXgyEfFQqQR9GDyAQKDqVkvjDxpQRvG1NUj6Do",
+    "escrow_account": "HdUJ4CVUp2tDj22UKtFTbd5A4fNmnFvZmH5fkrjxdRdX",
+    "name": "Helium-IoT"
+  },
+  {
     "id": 9,
     "router_key": "11w77YQLhgUt8HUJrMtntGGr97RyXmot1ofs5Ct2ELTmbFoYsQa",
     "escrow_account": "D5HidvdTUtPh5xLjdZ5J5YUxXk1hNV3vgWYkdMFgsJJv",
