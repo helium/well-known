@@ -64,5 +64,11 @@
     "router_key": "112sgrEDx4iF5bLCCnArQeHwstm9vr3Gr32FZyAkFsEq5rhdbvYa",
     "escrow_account": "AX4ZaKR1iuzCVGsYDNHkkUeuQjs1pu3ekbNVby2cNyBv",
     "name": "Foundation eSIM"
+  },
+  {
+    "id": 393,
+    "router_key": "3tKUHepg4AfiQt3afHAvg4zqiXeVmdUcnfEtC5pmifv8",
+    "escrow_account": "Pid9rmFp7uJLhiq7qRPkwzTdhGM5XvoLoy8KLuhtc2Z",
+    "name": "Yosensi"
   }
 ]
