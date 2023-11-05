@@ -76,5 +76,11 @@
     "router_key": "eTf6WbL2obdkvgSz84QYD8k2fekQaJMFNbi5wGTXgok",
     "escrow_account": "CGgbpvqaLhKTDW5XiAJVWpXLaDD8Guj1bdTkFGdf3pdX",
     "name": "Nebra Ltd"
+  },
+  {
+    "id": 987,
+    "router_key": "CHeNCmp5fGK8AJv6yQpe9ie1xAxUph5pRAgkWZAH7AuC",
+    "escrow_account": "6JziyF2mJwjLg6tjQAEVJ9iXP9RiyyFsi3rirXbjcNnd",
+    "name": "SkyNet IoT"
   }
 ]
