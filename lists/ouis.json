@@ -66,6 +66,12 @@
     "name": "Foundation eSIM"
   },
   {
+    "id": 327,
+    "router_key": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
+    "escrow_account": "HekUmZAewCibwQ9x5jBgd8MMUmwNADVaanefpgAx81G6",
+    "name": "WDRIoT"
+  },
+  {
     "id": 393,
     "router_key": "3tKUHepg4AfiQt3afHAvg4zqiXeVmdUcnfEtC5pmifv8",
     "escrow_account": "Pid9rmFp7uJLhiq7qRPkwzTdhGM5XvoLoy8KLuhtc2Z",
