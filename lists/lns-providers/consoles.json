@@ -1,0 +1,132 @@
+[
+  {
+    "name": "1663 Console",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/1663.png",
+    "logoVector": null,
+    "url": "https://1663.io/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe", "USA"],
+    "description": "Custom plans offering unlimited data, significant long-term discounts, and access to additional professional services."
+  },
+  {
+    "name": "BrDot",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/brdot.png",
+    "logoVector": null,
+    "url": "https://brdot.com.br/",
+    "serviceRegion": ["Americas"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Brazil"],
+    "description": "Fixed monthly for active devices plus message plan for public & private service."
+  },
+  {
+    "name": "ChirpCloud by Trackpac",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
+    "logoVector": null,
+    "url": "https://chirpcloud.co.uk/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private", "On Premise"],
+    "serverLocation": ["Europe"],
+    "description": "Per-device monthly infrastructure subscription + DC usage. Custom for Private SaaS & On-Premise."
+  },
+  {
+    "name": "Heliotics & UPLINK Network",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/heliotics.png",
+    "logoVector": null,
+    "url": "https://heliotics.com/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private", "On Premise"],
+    "serverLocation": ["Europe"],
+    "description": "Professional solutions for Private SaaS & On-Premise. Operated on own infrastructure, backed by a dedicated NOC"
+  },
+  {
+    "name": "Helium IoT Europe (by Ingenious Things)",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/helium-iot.png",
+    "logoVector": null,
+    "url": "https://www.helium-iot.eu/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe"],
+    "description": "Pay-per-message for public or pay-per-month for private and additional support."
+  },
+  {
+    "name": "IOT Creators",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/iot-creators.png",
+    "logoVector": null,
+    "url": "https://iotcreators.com/helium/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared"],
+    "serverLocation": ["Europe"],
+    "description": "Per-device monthly"
+  },
+  {
+    "name": "IOT LoRaWAN",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/lorawan.png",
+    "logoVector": null,
+    "url": "https://www.iot-lorawan.com/",
+    "serviceRegion": ["USA, Americas"],
+    "serverType": ["Public"],
+    "serverLocation": ["USA"],
+    "description": "Pay-per-message or contact us for other options."
+  },
+  {
+    "name": "MeteoScientific",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/meteo-scientific.png",
+    "logoVector": null,
+    "url": "https://console.meteoscientific.com/front/",
+    "serviceRegion": ["USA"],
+    "serverType": ["Public"],
+    "serverLocation": ["Europe"],
+    "description": "Pay-per-message for public use."
+  },
+  {
+    "name": "Nebra Sense",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/nebra.png",
+    "logoVector": null,
+    "url": "https://nebra.com/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe", "USA"],
+    "description": "Per-device monthly subscription cost, custom for private servers."
+  },
+  {
+    "name": "Qnectd",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/qnectd.png",
+    "logoVector": null,
+    "url": "https://qnectd.com/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Eastern Europe"],
+    "description": "Per-device monthly subscription cost, custom for private servers."
+  },
+  {
+    "name": "SkyNet IoT",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/skynet.png",
+    "logoVector": null,
+    "url": "https://www.skynetiot.io/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe", "USA"],
+    "description": "Yearly subscription cost fixed bundles, custom for private servers."
+  },
+  {
+    "name": "Yosensi",
+    "logoRaster": null,
+    "logoVector": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/yosensi.svg",
+    "url": "https://yosensi.io/management_platform/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared"],
+    "serverLocation": ["Europe"],
+    "description": "Pay-per-message"
+  },
+  {
+    "name": "WDRIoT Australia",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/wdriot.png",
+    "logoVector": null,
+    "url": "https://www.wdriot.com/",
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Australia"],
+    "description": "Per-device monthly subscription cost, custom for private servers."
+  }
+]
