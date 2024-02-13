@@ -60,16 +60,6 @@
     "description": "Per-device monthly"
   },
   {
-    "name": "IOT LoRaWAN",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/lorawan.png",
-    "logoVector": null,
-    "url": "https://www.iot-lorawan.com/",
-    "serviceRegion": ["USA, Americas"],
-    "serverType": ["Public"],
-    "serverLocation": ["USA"],
-    "description": "Pay-per-message or contact us for other options."
-  },
-  {
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/meteo-scientific.png",
     "logoVector": null,
@@ -78,16 +68,6 @@
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
     "description": "Pay-per-message for public use."
-  },
-  {
-    "name": "Nebra Sense",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/nebra.png",
-    "logoVector": null,
-    "url": "https://nebra.com/",
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private"],
-    "serverLocation": ["Europe", "USA"],
-    "description": "Per-device monthly subscription cost, custom for private servers."
   },
   {
     "name": "Qnectd",
