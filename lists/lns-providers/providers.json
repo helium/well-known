@@ -41,7 +41,7 @@
   },
   {
     "name": "Helium IoT Europe (by Ingenious Things)",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/helium-iot.png",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
     "logoVector": null,
     "url": "https://www.helium-iot.eu/",
     "serviceRegion": ["Global"],
@@ -51,7 +51,7 @@
   },
   {
     "name": "IOT Creators",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/iot-creators.png",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/iot-creators.png",
     "logoVector": null,
     "url": "https://iotcreators.com/helium/",
     "serviceRegion": ["Global"],
@@ -61,7 +61,7 @@
   },
   {
     "name": "MeteoScientific",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/meteo-scientific.png",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
     "url": "https://console.meteoscientific.com/front/",
     "serviceRegion": ["USA"],
