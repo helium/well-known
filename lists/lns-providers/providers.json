@@ -50,16 +50,6 @@
     "description": "Pay-per-message for public or pay-per-month for private and additional support."
   },
   {
-    "name": "IOT Creators",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/iot-creators.png",
-    "logoVector": null,
-    "url": "https://iotcreators.com/helium/",
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared"],
-    "serverLocation": ["Europe"],
-    "description": "Per-device monthly"
-  },
-  {
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
