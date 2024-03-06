@@ -15,7 +15,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/brdot.png",
     "logoVector": null,
     "url": "https://brdot.com.br/",
-    "companyHQ": ["Brazil"]
+    "companyHQ": ["Brazil"],
     "serviceRegion": ["Americas"],
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Brazil"],
@@ -26,7 +26,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
     "logoVector": null,
     "url": "https://chirpcloud.co.uk/",
-    "companyHQ": ["United Kingdom"]
+    "companyHQ": ["United Kingdom"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private", "On Premise"],
     "serverLocation": ["Europe"],
@@ -37,7 +37,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/heliotics.png",
     "logoVector": null,
     "url": "https://heliotics.com/",
-    "companyHQ": ["Germany"]
+    "companyHQ": ["Germany"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private", "On Premise"],
     "serverLocation": ["Europe"],
@@ -48,7 +48,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
     "logoVector": null,
     "url": "https://www.helium-iot.eu/",
-    "companyHQ": ["France"]
+    "companyHQ": ["France"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Europe"],
@@ -59,7 +59,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
     "url": "https://console.meteoscientific.com/front/",
-    "companyHQ": ["USA"]
+    "companyHQ": ["USA"],
     "serviceRegion": ["USA"],
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
@@ -70,7 +70,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/qnectd.png",
     "logoVector": null,
     "url": "https://qnectd.com/",
-    "companyHQ": ["Bulgaria"]
+    "companyHQ": ["Bulgaria"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Eastern Europe"],
@@ -81,7 +81,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/skynet.png",
     "logoVector": null,
     "url": "https://www.skynetiot.io/",
-    "companyHQ": ["Netherlands"]
+    "companyHQ": ["Netherlands"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Europe", "USA"],
@@ -92,7 +92,7 @@
     "logoRaster": null,
     "logoVector": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/yosensi.svg",
     "url": "https://yosensi.io/management_platform/",
-    "companyHQ": ["Poland"]
+    "companyHQ": ["Poland"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared"],
     "serverLocation": ["Europe"],
@@ -103,7 +103,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/wdriot.png",
     "logoVector": null,
     "url": "https://www.wdriot.com/",
-    "companyHQ": ["Australia"]
+    "companyHQ": ["Australia"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Australia"],
