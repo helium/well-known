@@ -26,7 +26,7 @@
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
     "logoVector": null,
     "url": "https://chirpcloud.co.uk/",
-    "companyHQ": ["Brazil"]
+    "companyHQ": ["United Kingdom"]
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private", "On Premise"],
     "serverLocation": ["Europe"],
