@@ -55,6 +55,17 @@
     "description": "Pay-per-message for public or pay-per-month for private and additional support."
   },
   {
+    "name": "IoT-Wireless",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/iot-wireless.png",
+    "logoVector": null,
+    "url": "https://www.iot-wireless.com",
+    "companyHQ": ["USA"],
+    "serviceRegion": ["USA","Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["USA","Any AWS Region"],
+    "description": "Pay-per-message for public use. Pay-per-month for private."
+  }, 
+  {
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
