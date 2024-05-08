@@ -1,7 +1,5 @@
 # Well Known
 
-**Note: This is a work in progress repository**
-
 This respository is a community driven repository of well known addresses, OUIs, etc. on the Helium network.
 
 ## OUIs
@@ -20,3 +18,12 @@ To submit your OUI to the list, submit a PR with your OUI added as the last obje
     "name": "Helium Foundation Console"
 }
 ```
+
+## Providers
+To view the current list of known public connectivity providers using Helium, check out [lists/lns-providers/providers.json](lists/lns-providers/providers.json).  
+The list in this repository backs public lists such as [Find an LNS Provider](https://docs.helium.com/iot/find-a-lns-provider) in Helium Docs.
+
+Please consider submitting your Helium business if it meets these critera:
+- Have onboarded 200+ sensors and product is ready commercially.
+- Have a professional website & landing page outlining Helium service offering.
+- Offering is available to the public regardless of sensor type or brand. Please add any scale requirements in the description section if applicable.
