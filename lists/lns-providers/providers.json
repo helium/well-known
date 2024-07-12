@@ -11,17 +11,6 @@
     "description": "Custom plans offering unlimited data, significant long-term discounts, and access to additional professional services."
   },
   {
-    "name": "BrDot",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/brdot.png",
-    "logoVector": null,
-    "url": "https://brdot.com.br/",
-    "companyHQ": ["Brazil"],
-    "serviceRegion": ["Americas"],
-    "serverType": ["Shared", "Private"],
-    "serverLocation": ["Brazil"],
-    "description": "Fixed monthly for active devices plus message plan for public & private service."
-  },
-  {
     "name": "ChirpCloud by Trackpac",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
     "logoVector": null,
