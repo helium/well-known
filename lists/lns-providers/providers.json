@@ -58,12 +58,12 @@
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
-    "url": "https://console.meteoscientific.com/front/",
+    "url": "https://www.meteoscientific.com/",
     "companyHQ": ["USA"],
     "serviceRegion": ["USA"],
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
-    "description": "Pay-per-message for public use."
+    "description": "Permissionless pay-per-message for public use."
   },
   {
     "name": "Qnectd",
