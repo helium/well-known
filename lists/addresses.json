@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "address": "4UiT93tyCivCHetditvH15wqWxYrHcoPWzQiKDQYF7Uo",
+        "name": "HNT-IOT Treasury"
+    },
+    {
+        "address": "AguTdjmW5SkhepT9qsKsj29SEqiVKsJchsap6Kma9i98",
+        "name": "HNT-MOBILE Treasury"
+    },
+    {
+        "address": "2AdZQmGikAMWahuJRb27PGABQyF6iyQ8aUUYyDDwRRG6",
+        "name": "Migration"
+    }
+]
