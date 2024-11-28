@@ -1,16 +1,5 @@
 [
   {
-    "name": "1663.io Console",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/1663.png",
-    "logoVector": null,
-    "url": "https://1663.io/",
-    "companyHQ": ["USA"], 
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private"],
-    "serverLocation": ["Europe", "USA"],
-    "description": "Custom plans offering unlimited data, significant long-term discounts, and access to additional professional services."
-  },
-  {
     "name": "ChirpCloud by Trackpac",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
     "logoVector": null,
