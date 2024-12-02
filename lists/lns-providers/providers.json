@@ -1,4 +1,15 @@
 [
+    {
+    "name": "MeteoScientific",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
+    "logoVector": null,
+    "url": "https://www.meteoscientific.com/",
+    "companyHQ": ["USA"],
+    "serviceRegion": ["USA"],
+    "serverType": ["Public"],
+    "serverLocation": ["Europe"],
+    "description": "Permissionless pay-per-message for public use."
+  },
   {
     "name": "ChirpCloud by Trackpac",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
@@ -43,17 +54,6 @@
     "serverLocation": ["USA","Any AWS Region"],
     "description": "Pay-per-message for public use. Pay-per-month for private."
   }, 
-  {
-    "name": "MeteoScientific",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
-    "logoVector": null,
-    "url": "https://www.meteoscientific.com/",
-    "companyHQ": ["USA"],
-    "serviceRegion": ["USA"],
-    "serverType": ["Public"],
-    "serverLocation": ["Europe"],
-    "description": "Permissionless pay-per-message for public use."
-  },
   {
     "name": "Qnectd",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/qnectd.png",
