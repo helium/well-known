@@ -49,7 +49,7 @@
     "logoVector": null,
     "url": "https://www.meteoscientific.com/",
     "companyHQ": ["USA"],
-    "serviceRegion": ["USA"],
+    "serviceRegion": ["Global"],
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
     "description": "Permissionless pay-per-message for public use."
