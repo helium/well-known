@@ -47,12 +47,12 @@
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
-    "url": "https://www.meteoscientific.com/",
+    "url": "https://www.meteoscientific.com/helium-lns",
     "companyHQ": ["USA"],
-    "serviceRegion": ["USA"],
+    "serviceRegion": ["Global"],
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
-    "description": "Permissionless pay-per-message for public use."
+    "description": "Anyone can pay-per-message for public use. 400 DC credit when you sign up. Free LoRaWAN tutorials. "
   },
   {
     "name": "Qnectd",
