@@ -22,10 +22,10 @@
     "description": "Professional solutions for Private SaaS & On-Premise. Operated on own infrastructure, backed by a dedicated NOC"
   },
   {
-    "name": "Helium IoT Europe (by Ingenious Things)",
+    "name": "HeyIoT",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
     "logoVector": null,
-    "url": "https://www.helium-iot.eu/",
+    "url": "https://www.heyiot.xyz",
     "companyHQ": ["France"],
     "serviceRegion": ["Global"],
     "serverType": ["Shared", "Private"],
