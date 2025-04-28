@@ -97,5 +97,16 @@
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Australia"],
     "description": "Per-device monthly subscription cost, custom for private servers."
+  },
+  {
+    "name": "helium.dataMatters.io",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/dataMatters.png",
+    "logoVector": null,
+    "url": "https://helium.datamatters.io",
+    "companyHQ": ["Germany"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe"],
+    "description": "Pay-per-message for public or pay-per-month for private and additional support."
   }
 ]
