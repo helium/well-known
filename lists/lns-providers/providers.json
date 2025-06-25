@@ -45,14 +45,14 @@
   }, 
   {
     "name": "MeteoScientific",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
+    "logoRaster": "https://brand.meteoscientific.com/meteoscientific-helium-console-logo.png",
     "logoVector": null,
     "url": "https://www.meteoscientific.com/helium-lns",
     "companyHQ": ["USA"],
     "serviceRegion": ["Global"],
     "serverType": ["Public"],
     "serverLocation": ["Europe"],
-    "description": "Anyone can pay-per-message for public use. 400 DC credit when you sign up. Free LoRaWAN tutorials. "
+    "description": "Public Helium LNS — All Welcome. Pay-per-message with no subscription required. Get 400 DC free on signup + complimentary LoRaWAN tutorials. Home of The Business of LoRaWAN podcast. "
   },
   {
     "name": "Qnectd",
