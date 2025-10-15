@@ -1,14 +1,47 @@
 [
   {
-    "name": "ChirpCloud by Trackpac",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
+    "name": "HeyIoT",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
     "logoVector": null,
-    "url": "https://chirpcloud.co.uk/",
-    "companyHQ": ["United Kingdom"],
+    "url": "https://www.heyiot.xyz",
+    "companyHQ": ["France"],
     "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private", "On Premise"],
+    "serverType": ["Shared", "Private"],
     "serverLocation": ["Europe"],
-    "description": "Per-device monthly infrastructure subscription + DC usage. Custom for Private SaaS & On-Premise."
+    "description": "Pay-per-message for public or pay-per-month for private and additional support."
+  },
+  {
+    "name": "MeteoScientific",
+    "logoRaster": "https://brand.meteoscientific.com/meteoscientific-helium-console-logo.png",
+    "logoVector": null,
+    "url": "https://www.meteoscientific.com/helium-lns",
+    "companyHQ": ["USA"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Public"],
+    "serverLocation": ["Europe"],
+    "description": "Public Helium LNS — All Welcome. Pay-per-message with no subscription required. Get 400 DC free on signup + complimentary LoRaWAN tutorials. Home of The Business of LoRaWAN podcast. "
+  },
+  {
+    "name": "WDRIoT Australia",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/wdriot.png",
+    "logoVector": null,
+    "url": "https://www.wdriot.com/",
+    "companyHQ": ["Australia"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Australia"],
+    "description": "Per-device monthly subscription cost, custom for private servers."
+  },
+  {
+    "name": "helium.dataMatters.io",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/dataMatters.png",
+    "logoVector": null,
+    "url": "https://helium.datamatters.io",
+    "companyHQ": ["Germany"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private"],
+    "serverLocation": ["Europe"],
+    "description": "Pay-per-message for public or pay-per-month for private and additional support."
   },
   {
     "name": "Heliotics & UPLINK Network",
@@ -22,37 +55,15 @@
     "description": "Professional solutions for Private SaaS & On-Premise. Operated on own infrastructure, backed by a dedicated NOC"
   },
   {
-    "name": "HeyIoT",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
-    "logoVector": null,
-    "url": "https://www.heyiot.xyz",
-    "companyHQ": ["France"],
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private"],
-    "serverLocation": ["Europe"],
-    "description": "Pay-per-message for public or pay-per-month for private and additional support."
-  },
-  {
     "name": "IoT-Wireless",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/iot-wireless.png",
     "logoVector": null,
     "url": "https://www.iot-wireless.com",
     "companyHQ": ["USA"],
-    "serviceRegion": ["USA","Global"],
+    "serviceRegion": ["USA", "Global"],
     "serverType": ["Shared", "Private"],
-    "serverLocation": ["USA","Any AWS Region"],
+    "serverLocation": ["USA", "Any AWS Region"],
     "description": "Pay-per-message for public use. Pay-per-month for private."
-  }, 
-  {
-    "name": "MeteoScientific",
-    "logoRaster": "https://brand.meteoscientific.com/meteoscientific-helium-console-logo.png",
-    "logoVector": null,
-    "url": "https://www.meteoscientific.com/helium-lns",
-    "companyHQ": ["USA"],
-    "serviceRegion": ["Global"],
-    "serverType": ["Public"],
-    "serverLocation": ["Europe"],
-    "description": "Public Helium LNS — All Welcome. Pay-per-message with no subscription required. Get 400 DC free on signup + complimentary LoRaWAN tutorials. Home of The Business of LoRaWAN podcast. "
   },
   {
     "name": "Qnectd",
@@ -88,25 +99,14 @@
     "description": "Pay-per-message"
   },
   {
-    "name": "WDRIoT Australia",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/wdriot.png",
+    "name": "ChirpCloud by Trackpac",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
     "logoVector": null,
-    "url": "https://www.wdriot.com/",
-    "companyHQ": ["Australia"],
+    "url": "https://chirpcloud.co.uk/",
+    "companyHQ": ["United Kingdom"],
     "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private"],
-    "serverLocation": ["Australia"],
-    "description": "Per-device monthly subscription cost, custom for private servers."
-  },
-  {
-    "name": "helium.dataMatters.io",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/dataMatters.png",
-    "logoVector": null,
-    "url": "https://helium.datamatters.io",
-    "companyHQ": ["Germany"],
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private"],
+    "serverType": ["Shared", "Private", "On Premise"],
     "serverLocation": ["Europe"],
-    "description": "Pay-per-message for public or pay-per-month for private and additional support."
+    "description": "Per-device monthly infrastructure subscription + DC usage. Custom for Private SaaS & On-Premise."
   }
 ]
